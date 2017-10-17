@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlicksMovieApp</string>
+    <string name="movie_title">Movie Title</string>
+</resources>
